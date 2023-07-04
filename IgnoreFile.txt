@@ -1,2 +1,4 @@
 
-Check File Ignored or not?
+Check File Ignored or no?
+added changes here in ignore file.
+
